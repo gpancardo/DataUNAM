@@ -4,3 +4,5 @@ __"Biblioteca central de la UNAM" | Gomnrz | [Wikimedia, mayo 2025](https://comm
 
 ## Objetivo
 **Preparar un dataset proveniente de __[Data Mexico - Vizbuilder](https://www.economia.gob.mx/datamexico/es/vizbuilder)__ sobre la Universidad Nacional Autónoma de México para un dashboard en Looker Studio.**
+
+## [Dataset resultante ✈️](https://github.com/gpancardo/DataUNAM/blob/main/unamLimpio.csv) 
