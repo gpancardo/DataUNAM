@@ -7,7 +7,8 @@ __"Biblioteca central de la UNAM" | Gomnrz | [Wikimedia, mayo 2025](https://comm
 2. [__Dataset resultante__](#dataset-resultante-️)
 3. [__Paso a paso__](#paso-a-paso-)
 4. [__Resultados__](#resultados-)
-5. [__Fuentes__](#fuentes-)
+5. [__Pendientes__](#pendientes-)
+6. [__Fuentes__](#fuentes-)
 
 ## Objetivo 🎯
 **Preparar un dataset proveniente de __[Data Mexico - Vizbuilder](https://www.economia.gob.mx/datamexico/es/vizbuilder)__ sobre la Universidad Nacional Autónoma de México para un dashboard en Looker Studio.**
@@ -24,7 +25,15 @@ __"Biblioteca central de la UNAM" | Gomnrz | [Wikimedia, mayo 2025](https://comm
 7. **Importar en Looker Studio.**
 
 ## Resultados 📊
-### Reporte  - pendiente
-### Dashboard - pendiente
+### [Reporte  🗞️]() - pendiente
+### [Dashboard  🕹️](https://lookerstudio.google.com/reporting/db85cb1d-d3a4-4cc8-93f3-42a1bc1f07b8)
+
+## Pendientes ⌛
+* __**Programas inconsciententes.**__
+* __**Corregir PUEM.**__
+* __**Cambiar etiquetas.**__
+* __**Hacer reporte**__
 
 ## Fuentes 📖
+* “File:Biblioteca Central de La UNAM.jpg - Wikimedia Commons.” 2021. Wikimedia.org. September 19, 2021. https://commons.wikimedia.org/wiki/File:Biblioteca_central_de_la_UNAM.jpg.
+* “Vizbuilder | Data México.” 2025. Data México. 2025. https://www.economia.gob.mx/datamexico/es/vizbuilder.
