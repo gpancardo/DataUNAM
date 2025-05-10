@@ -2,13 +2,6 @@
 ![alt text](Biblioteca_central_de_la_UNAM.jpg "Biblioteca central de la UNAM")
 __"Biblioteca central de la UNAM" | Gomnrz | [Wikimedia, mayo 2025](https://commons.wikimedia.org/wiki/File:Biblioteca_central_de_la_UNAM.jpg) |  Creative Commons Attribution 4.0 International__
 
-## Índice
-1. [__Objetivo__](#objetivo-)
-2. [__Dataset resultante__](#dataset-resultante-️)
-3. [__Paso a paso__](#paso-a-paso-)
-4. [__Resultados__](#resultados-)
-5. [__Fuentes__](#fuentes-)
-
 ## Objetivo 🎯
 **Preparar un dataset proveniente de __[Data Mexico - Vizbuilder](https://www.economia.gob.mx/datamexico/es/vizbuilder)__ sobre la Universidad Nacional Autónoma de México para un dashboard en Looker Studio.**
 
@@ -21,7 +14,7 @@ __"Biblioteca central de la UNAM" | Gomnrz | [Wikimedia, mayo 2025](https://comm
 4. **Sustituir ubicaciones por siglas:** Las ubicaciones (facultades, campi, institutos, etc.) tienen nombres largos que pueden ser difíciles de leer en el dashboard. Hay ubicaciones duplicadas que se asignan a las mismas siglas en el nuevo dataset.
 5. **Simplificar títulos:** Los nombres de título incluyen el grado o son programas derivados. El dataset resultante tiene nombres más cortos para que el dashboard sea legible.
 6. **Guardar dataframe modificado como archivo CSV.**
-7. **Importar en Looker Studio**
+7. **Importar en Looker Studio.**
 
 ## Resultados 📊
 ### Reporte  - pendiente
